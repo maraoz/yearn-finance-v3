@@ -122,6 +122,7 @@
   "footer": {
     "links": {
       "blog": "Blog",
+      "buyback": "Recompra de YFI",
       "disclaimer": "Disclaimer",
       "docs": "Docs",
       "gov": "Gov",
@@ -159,7 +160,7 @@
     "classic": "Classic v2",
     "cyberpunk": "Cyberpunk",
     "dark": "Mono Dark",
-    "explorer": "Explorer",
+    "explorer": "Explorador",
     "light": "Mono Light",
     "system-prefs": "Sistema",
     "custom": "Personalizado",
